@@ -1,0 +1,1 @@
+<p>Hi {username}! Why not <a href="profile">view your profile</a>, or <a href="account">edit your account</a> | <a href="authenticate/logout">logout</a></p>
